@@ -38,50 +38,6 @@ El diagrama de clases representa la estructura del programa, sus atributos, mét
 
 </div>
 
-## ⚙️ Instrucciones de ejecución
-
-### Requisitos previos
-
-- Tener instalado el **JDK de Java**, si el proyecto está desarrollado en Java.
-- Contar con un editor de código o entorno de desarrollo compatible, como Visual Studio Code, IntelliJ IDEA o Apache NetBeans.
-- Descargar o clonar este repositorio.
-
-### 1. Descargar el proyecto
-
-Clona el repositorio desde una terminal:
-
-```bash
-git clone URL_DEL_REPOSITORIO
-```
-
-También puedes descargarlo mediante la opción **Code → Download ZIP** de GitHub y extraer el archivo.
-
-### 2. Abrir el proyecto
-
-Abre la carpeta descargada en tu entorno de desarrollo y localiza el archivo principal que contiene el método `main`.
-
-### 3. Compilar y ejecutar
-
-Si el programa está desarrollado en Java y no utiliza paquetes ni dependencias externas, abre una terminal en la carpeta donde se encuentra el archivo `.java` y ejecuta:
-
-```bash
-javac NombreClase.java
-java NombreClase
-```
-
-**Importante:** Reemplaza `NombreClase` por el nombre real de la clase principal, sin la extensión `.java`.
-
-Si utilizas un entorno de desarrollo, también puedes abrir el proyecto y ejecutar la clase principal con la opción **Run**.
-
-## 🛠️ Tecnologías utilizadas
-
-- **Lenguaje:** Java, si corresponde al proyecto.
-- **Paradigma:** Programación Orientada a Objetos.
-- **Control de versiones:** Git y GitHub.
-- **Documentación:** Markdown y diagramas UML.
-
----
-
 <div align="center">
 
   **POO-Tema1**
