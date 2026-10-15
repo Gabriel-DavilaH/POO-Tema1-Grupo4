@@ -24,12 +24,12 @@ Aplicar los fundamentos de la **Programación Orientada a Objetos (POO)** median
 
 ## 📐 Diagrama de clases
 
-> **Nota:** Reemplaza `![Uploading image.png…]()
-` por la ruta y el nombre de la imagen de tu diagrama dentro del repositorio.
+> **Nota:** Reemplaza por la ruta y el nombre de la imagen de tu diagrama dentro del repositorio.
 
 <div align="center">
 
-  <img src="diagrama-clases.png" alt="Diagrama UML de las clases del proyecto POO-Tema1" width="800"/>
+  <img src="diagrama-clases.png" alt="![Uploading image.png…]()
+" width="800"/>
 
   <br>
 
