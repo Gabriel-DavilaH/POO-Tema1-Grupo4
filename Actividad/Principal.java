@@ -22,3 +22,23 @@ System.out.println("INFORMACION DE ESTUDIANTES");
         System.out.println("Edad: " + estudiante1.edad);
         System.out.println("Carrera: " + estudiante1.carrera);
         System.out.println("Semestre: " + estudiante1.semestre);
+
+    
+        System.out.println("\nEstudiante 2:");
+        System.out.println("Nombre: " + estudiante2.nombre);
+        System.out.println("Apellido: " + estudiante2.apellido);
+        System.out.println("Edad: " + estudiante2.edad);
+        System.out.println("Carrera: " + estudiante2.carrera);
+        System.out.println("Semestre: " + estudiante2.semestre);
+
+        System.out.println("\nEstudiante 3:");
+        System.out.println("Nombre: " + estudiante3.nombre);
+        System.out.println("Apellido: " + estudiante3.apellido);
+        System.out.println("Edad: " + estudiante3.edad);
+        System.out.println("Carrera: " + estudiante3.carrera);
+        System.out.println("Semestre: " + estudiante3.semestre);
+    }
+}
+
+
+        
