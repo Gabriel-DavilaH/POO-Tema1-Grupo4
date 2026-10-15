@@ -24,7 +24,8 @@ Aplicar los fundamentos de la **Programación Orientada a Objetos (POO)** median
 
 ## 📐 Diagrama de clases
 
-> **Nota:** Reemplaza `diagrama-clases.png` por la ruta y el nombre de la imagen de tu diagrama dentro del repositorio.
+> **Nota:** Reemplaza `![Uploading image.png…]()
+` por la ruta y el nombre de la imagen de tu diagrama dentro del repositorio.
 
 <div align="center">
 
