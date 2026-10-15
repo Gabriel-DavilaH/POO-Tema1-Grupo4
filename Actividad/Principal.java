@@ -1,4 +1,4 @@
-
+//Programa Principal
 public class Principal {
 
     public static void main(String[] args) {
@@ -14,6 +14,7 @@ public class Principal {
         Estudiante estudiante3 = new Estudiante(
             "María", "Gómez", 20, "Ingeniería de Software", 3
         );
+        
 System.out.println("INFORMACION DE ESTUDIANTES");
 
         System.out.println("\nEstudiante 1:");
