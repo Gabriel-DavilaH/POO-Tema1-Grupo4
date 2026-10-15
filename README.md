@@ -28,8 +28,4 @@ Aplicar los fundamentos de la **Programación Orientada a Objetos (POO)** median
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c70b46a5-d5bd-4b8a-993a-36820741577b" />
 
 
-  **POO-Tema1**
-
-  *Aprender, diseñar, programar y mejorar.*
-
 </div>
