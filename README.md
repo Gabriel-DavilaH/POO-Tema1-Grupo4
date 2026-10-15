@@ -18,13 +18,11 @@ Aplicar los fundamentos de la **Programación Orientada a Objetos (POO)** median
 
 | # | Integrante | Rol |
 |:---:|:---|:---|
-| 01 | **Toalombo Punina Jeremy Patricio** | Programador |
-| 02 | **Dávila Hernández Gabriel Marcelo** | Analista |
-| 03 | **Masabanda Chasiluisa Jeremy Isaac** | Documentación y pruebas |
+| 01 | **Toalombo Punina Jeremy Patricio** | Readme |
+| 02 | **Dávila Hernández Gabriel Marcelo** | Java principal |
+| 03 | **Masabanda Chasiluisa Jeremy Isaac** | Estudiantes |
 
 ## 📐 Diagrama de clases
-
-El diagrama de clases representa la estructura del programa, sus atributos, métodos y las relaciones entre las clases.
 
 > **Nota:** Reemplaza `diagrama-clases.png` por la ruta y el nombre de la imagen de tu diagrama dentro del repositorio.
 
